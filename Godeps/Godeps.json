@@ -1,0 +1,22 @@
+{
+	"ImportPath": "github.com/shumipro/gh-report-crawler",
+	"GoVersion": "go1.5",
+	"Deps": [
+		{
+			"ImportPath": "github.com/google/go-github/github",
+			"Rev": "7277108aa3e8823e0e028f6c74aea2f4ce4a1b5a"
+		},
+		{
+			"ImportPath": "github.com/google/go-querystring/query",
+			"Rev": "547ef5ac979778feb2f760cdb5f4eae1a2207b86"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "1bc0720082d79ce7ffc6ef6e523d00d46b0dee45"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "397fe7649477ff2e8ced8fc0b2696f781e53745a"
+		}
+	]
+}
